@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Hung, 17 years old as of 2021. I'm currently a student at HUS - High School for Gifted Students, and also a developer at VNOI.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I used to study Competitive Programming as a hobby, even though I am not so good at that, and I stopped at the end of 2020.
+After that, I've done a lot of things related to Competitive Programming like hosting OIs, developing examination platforms,
+etc. I also love making video games using Godot Engine or Game Maker Studio, but I haven't released any games yet :D.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I like playing games, and yeah, I play a lot. I also love reading mangas and sometimes watching some animes.
