@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips and tricks for using Peewee ORM"
+title: "Peewee ORM tips and tricks"
 date: 2022-03-07
 categories: Peewee
 ---
