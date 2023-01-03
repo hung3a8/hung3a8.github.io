@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peewee ORM tips and tricks"
+title: "Relationships workarounds in Peewee"
 date: 2022-03-07
 categories: Peewee
 ---
