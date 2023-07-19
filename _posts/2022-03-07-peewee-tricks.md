@@ -2,7 +2,7 @@
 layout: post
 title: "Relationships workarounds in Peewee"
 date: 2022-03-07
-categories: Peewee
+categories: coding
 ---
 
 Peewee is a lightweight ORM for Python. Compared to SQLAlchemy, Peewee is much more simpler, and compared to Django ORM, it is much more explicit. Here are some Peewee tricks you can use to improve your code.
